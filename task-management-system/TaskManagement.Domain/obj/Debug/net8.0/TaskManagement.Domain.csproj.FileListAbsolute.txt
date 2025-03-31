@@ -1,0 +1,5 @@
+C:\Users\rinaq\OneDrive\Desktop\-Task-Management-System\task-management-system\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinaq\OneDrive\Desktop\-Task-Management-System\task-management-system\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\rinaq\OneDrive\Desktop\-Task-Management-System\task-management-system\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfo.cs
+C:\Users\rinaq\OneDrive\Desktop\-Task-Management-System\task-management-system\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rinaq\OneDrive\Desktop\-Task-Management-System\task-management-system\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.sourcelink.json
